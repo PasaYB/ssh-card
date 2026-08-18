@@ -2,9 +2,7 @@
 
 Aplikasi portofolio interaktif berbasis Terminal User Interface (TUI) yang dikembangkan menggunakan Go dan pustaka [Wish](https://github.com/charmbracelet/wish) / [Bubble Tea](https://github.com/charmbracelet/bubbletea). Pengunjung dapat mengakses portofolio ini secara langsung melalui perintah SSH di terminal tanpa perlu melakukan registrasi, masukan password, atau instalasi dependen tambahan.
 
-
-<video src="https://github.com/PasaYB/ssh-card/assets/demo.mp4" controls="controls" style="max-width: 100%;"></video>
-
+https://github.com/user-attachments/assets/1639ad2d-0f41-4ada-8246-d44f08d574fa
 
 ---
 
